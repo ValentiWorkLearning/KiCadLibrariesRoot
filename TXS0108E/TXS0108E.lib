@@ -1,0 +1,46 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# TXS0108E
+#
+DEF TXS0108E IC 0 40 Y Y 1 L N
+F0 "IC" -400 640 50 H V L BNN
+F1 "TXS0108E" -401 -711 50 H V L BNN
+F2 "PW_R-PDSO-G20" 0 0 50 H I L BNN
+F3 "8-Bit Bidirectional Voltage-Level Translator For Open-Drain And Push-Pull Application" 0 0 50 H I L BNN
+F4 "Texas Instruments" 0 0 50 H I L BNN
+F5 "Unavailable" 0 0 50 H I L BNN
+F6 "None" 0 0 50 H I L BNN
+F7 "TXS0108E" 0 0 50 H I L BNN
+F8 "TSSOP-20 Texas Instruments" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -400 600 400 600 N
+P 2 0 0 10 400 600 400 -600 N
+P 2 0 0 10 400 -600 -400 -600 N
+P 2 0 0 10 -400 -600 -400 600 N
+X A1 1 600 500 200 L 40 40 0 0 B 
+X A2 3 600 400 200 L 40 40 0 0 B 
+X A3 4 600 300 200 L 40 40 0 0 B 
+X A4 5 600 200 200 L 40 40 0 0 B 
+X A5 6 600 100 200 L 40 40 0 0 B 
+X A6 7 600 0 200 L 40 40 0 0 B 
+X A7 8 600 -100 200 L 40 40 0 0 B 
+X A8 9 600 -200 200 L 40 40 0 0 B 
+X B1 20 -600 500 200 R 40 40 0 0 B 
+X B2 18 -600 400 200 R 40 40 0 0 B 
+X B3 17 -600 300 200 R 40 40 0 0 B 
+X B4 16 -600 200 200 R 40 40 0 0 B 
+X B5 15 -600 100 200 R 40 40 0 0 B 
+X B6 14 -600 0 200 R 40 40 0 0 B 
+X B7 13 -600 -100 200 R 40 40 0 0 B 
+X B8 12 -600 -200 200 R 40 40 0 0 B 
+X GND 11 600 -500 200 L 40 40 0 0 B 
+X OE 10 600 -400 200 L 40 40 0 0 B 
+X VCCA 2 -600 -500 200 R 40 40 0 0 B 
+X VCCB 19 -600 -400 200 R 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
