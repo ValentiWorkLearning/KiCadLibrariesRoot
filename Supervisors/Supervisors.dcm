@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX809STRG
+D Microprocessor Reset (active-low) Circuit, SOT-23
+K reset supervisor
+F https://datasheet.lcsc.com/szlcsc/ON-Semicon-ON-MAX809STRG_C9965.pdf
+$ENDCMP
+#
+#End Doc Library
