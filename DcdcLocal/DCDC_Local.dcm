@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS62740DSST
+F http://www.ti.com/lit/ds/slvsb02b/slvsb02b.pdf
+$ENDCMP
+#
+#End Doc Library

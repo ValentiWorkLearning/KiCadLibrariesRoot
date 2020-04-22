@@ -1,4 +1,4 @@
-(module 4x4x11 (layer F.Cu) (tedit 5E930A8F)
+(module VibrationMorot4x4x11 (layer F.Cu) (tedit 5E9CAEDF)
   (fp_text reference REF** (at -5.4 -0.1 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
