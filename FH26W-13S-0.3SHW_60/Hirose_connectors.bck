@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DF37NC-24DS-0.4V(51)_Female
+D Generic connector, double row, 01x24
+K connector
+F https://datasheet.lcsc.com/szlcsc/1811071030_HRS-Hirose-DF37C-24DP-0-4V-51_C324721.pdf
+$ENDCMP
+#
 #End Doc Library
