@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BNO055
+F https://datasheet.lcsc.com/szlcsc/Bosch-Sensortec-BNO055_C93216.pdf
+$ENDCMP
+#
+#End Doc Library
