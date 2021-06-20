@@ -1,5 +1,5 @@
 
-(module SW_B3U-3000P (layer F.Cu) (tedit 60CF5986)
+(module SW_B3U-3000P (layer F.Cu) (tedit 60CF5C9C)
   (descr "")
   (fp_text reference REF** (at -0.5687575 -2.0090705 0) (layer F.SilkS)
     (effects (font (size 0.640851181102 0.640851181102) (thickness 0.015)))
